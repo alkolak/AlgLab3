@@ -1,0 +1,5 @@
+﻿  lab3UnitTests.cpp
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\Алгоритмы\lab3\lab3\lab3.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\Алгоритмы\lab3\lab3\lab3.cpp(165,21): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\Алгоритмы\lab3\Debug\lab3UnitTests.lib и объект C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\Алгоритмы\lab3\Debug\lab3UnitTests.exp
+  lab3UnitTests.vcxproj -> C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\Алгоритмы\lab3\Debug\lab3UnitTests.dll
